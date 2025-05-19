@@ -7,9 +7,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "End-to-end-ML-Project-with-MLflow"
-AUTHOR_USER_NAME = "sanson"
+AUTHOR_USER_NAME = "sanso"
 SRC_REPO = "mlProject"
-AUTHOR_EMAIL = "sansonsndo20@gmail.com"
+AUTHOR_EMAIL = "sansonsando20@gmail.com"
 
 
 setuptools.setup(
